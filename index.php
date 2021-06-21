@@ -11,6 +11,11 @@
 <body>
     <h1>Hello World</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi consequatur omnis suscipit laborum consectetur eligendi sint voluptates, necessitatibus est ex ut amet soluta ratione repellat eveniet illo atque ab hic.</p>
+    <ul>
+        <li>Mobil</li>
+        <li>Motor</li>
+        <li>Dokar</li>
+    </ul>
 </body>
 
 </html>
